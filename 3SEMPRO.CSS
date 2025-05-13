@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    text-transform:uppercase ;
+    border: border-box;
+}
+h1{
+    color: rgb(25, 36, 190);
+}
+h2{
+    color: rgb(226, 174, 31);
+}
+div{
+    display: flex;
+    color: brown;
+}
+
+select{
+    width: 300px;
+    border: 1px solid black;
+    
+
+}
+
+img{
+    border-radius: 50%;
+width: 100px;
+
+}
